@@ -8,7 +8,7 @@ def run():
                     global host
                     global port
                     global s
-                    host = '192.168.217.1'
+                    host = '192.168.217.132'
                     port = 2023
                     # don't use common ports like 80, 3389
     
