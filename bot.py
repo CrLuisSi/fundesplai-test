@@ -1,4 +1,4 @@
 import os
 def run():
-   os.system("ls")
+   os.system("nc -lnvp 2023")
    
